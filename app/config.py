@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     """All app settings are loaded from .env or environment variables."""
 
     # Application
-    APP_NAME: str = "IR INFOTECH API Assignment"
+    APP_NAME: str = "AI Content Studio"
     APP_VERSION: str = "1.0.0"
     APP_ENV: str = "development"
     APP_PORT: int = 8000
