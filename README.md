@@ -54,7 +54,6 @@ project/
 ├── Dockerfile
 ├── README.md
 ├── requirements.txt
-└── pytest.ini
 ```
 
 ---
