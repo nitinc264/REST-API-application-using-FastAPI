@@ -1,4 +1,4 @@
-# IR INFOTECH API Assignment
+# REST API application using FastAPI
 
 A production-ready REST API built using **FastAPI** and **Google Gemini AI** that provides intelligent text processing capabilities including text summarization, language translation, and professional email generation.
 
