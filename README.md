@@ -46,8 +46,10 @@ project/
 │   ├── main.py
 │   └── __init__.py
 │
-├── tests/
-│   └── test_summarize.py
+tests/
+├── test_summarize.py
+├── test_translate.py
+└── test_generate_email.py
 │
 ├── .env.example
 ├── .gitignore
