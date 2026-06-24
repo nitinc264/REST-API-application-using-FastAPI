@@ -302,7 +302,3 @@ The application logs:
 ## Author
 
 **Nitin Chauhan**
-
-B.Tech – Artificial Intelligence & Data Science
-
-IR INFOTECH – AI/ML Intern Assignment
