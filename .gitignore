@@ -1,0 +1,62 @@
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Environment Variables
+
+.env
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# Pytest
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# MyPy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# Coverage
+
+.coverage.*
+coverage.xml
+
+# Docker
+
+docker-compose.override.yml
