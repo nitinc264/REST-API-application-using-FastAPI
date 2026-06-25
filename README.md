@@ -72,7 +72,7 @@ Returns application status and version information.
 
 ```json
 {
-  "app": "IR INFOTECH API Assignment",
+  "app": "AI Content Studio",
   "version": "1.0.0",
   "status": "healthy"
 }
@@ -204,7 +204,7 @@ Create a `.env` file:
 GEMINI_API_KEY=your_api_key_here
 GEMINI_MODEL=models/gemini-2.5-flash
 
-APP_NAME=IR INFOTECH API Assignment
+APP_NAME=AI Content Studio
 APP_VERSION=1.0.0
 APP_ENV=development
 APP_PORT=8000
